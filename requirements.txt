@@ -1,0 +1,16 @@
+beautifulsoup4==4.12.3
+bs4==0.0.2
+certifi==2024.8.30
+charset-normalizer==3.3.2
+idna==3.10
+pyaes==1.6.1
+pyasn1==0.6.1
+Pyrogram==2.0.106
+PySocks==1.7.1
+requests==2.32.3
+rsa==4.9
+soupsieve==2.6
+Telethon==1.37.0
+TgCrypto==1.2.5
+toml==0.10.2
+urllib3==2.2.3
